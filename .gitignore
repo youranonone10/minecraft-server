@@ -1,0 +1,25 @@
+# Minecraft server data
+world/
+world_nether/
+world_the_end/
+eula.txt
+server.jar
+logs/
+crash-reports/
+*.log
+
+# Docker
+.docker/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
